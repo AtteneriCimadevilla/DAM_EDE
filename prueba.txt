@@ -1,13 +1,4 @@
-Hola 
+Hola.
 
-Hola de nuevk
+Hola de nuevo.
 
-He creado una nueva rama
-
-Una nueva linea.
-
-La quinta linea del archivo.
-
-Otro cambio.
-
-Un cambio mas.
